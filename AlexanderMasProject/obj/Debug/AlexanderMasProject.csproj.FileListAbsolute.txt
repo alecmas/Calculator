@@ -1,0 +1,9 @@
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\bin\Debug\AlexanderMasProject.exe.config
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\bin\Debug\AlexanderMasProject.exe
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\bin\Debug\AlexanderMasProject.pdb
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.Form1.resources
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.Properties.Resources.resources
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.csproj.GenerateResource.Cache
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.exe
+C:\Users\Alec\Desktop\Software Systems Development\AlexanderMasProject\AlexanderMasProject\obj\Debug\AlexanderMasProject.pdb
